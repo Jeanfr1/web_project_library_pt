@@ -141,11 +141,11 @@
 }
 
 .event-info__icon_type_calendar {
-  background-image: url(../images/icon_calendar.svg);
+  background-image: url("../images/icon_calendar.svg");
 }
 
 .event-info__icon_type_pin {
-  background-image: url(../images/icon_pin.svg);
+  background-image: url("../images/icon_pin.svg");
 }
 
 .event-info__text {
@@ -237,7 +237,7 @@
 
 .staff {
   padding: 100px 0 140px;
-  background-image: url(../images/staff_picks_background.jpg);
+  background-image: url("../images/staff_picks_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
